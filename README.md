@@ -1,7 +1,4 @@
 # AICAS-2023-Grand-Challenge-Software-and-Hardware-optimization-for-E-Commerce-Recommendation_System
-记录自己第一次在天池推荐系统比赛中的获奖经历，最终排名第4
-# GNN4CAAI-BDSC2023-TASK1
-### AICAS-2023-Grand-Challenge-Software-and-Hardware-optimization-for-E-Commerce-Recommendation_System
 ### 比赛链接:https://tianchi.aliyun.com/competition/entrance/532061/introduction?spm=a2c22.12281925.0.0.168371373MY56b
 ### 最终排名: 4/520   F1指标：0.0826
 
